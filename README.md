@@ -1,2 +1,1 @@
 # imagehosting
-图床
